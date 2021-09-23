@@ -1,0 +1,23 @@
+[
+null,
+{"id":1,"animationId":1,"description":"一般的に使用されている杖。","etypeId":1,"traits":[],"iconIndex":101,"name":"マジックワンド","note":"<MaxItems:1>","params":[0,0,3,0,12,0,0,0],"price":100,"wtypeId":1},
+{"id":2,"animationId":1,"description":"魔力が大幅に上昇する杖。","etypeId":1,"traits":[],"iconIndex":101,"name":"グレートワンド","note":"<MaxItems:1>","params":[0,0,5,0,45,0,0,0],"price":300,"wtypeId":1},
+{"id":3,"animationId":1,"description":"魔法力だけでなく物理攻撃力も大きく上昇する杖。","etypeId":1,"traits":[],"iconIndex":101,"name":"パワーワンド","note":"<MaxItems:1>","params":[0,0,36,0,36,0,0,0],"price":300,"wtypeId":1},
+{"id":4,"animationId":1,"description":"ひたすらに魔法力だけが上昇する杖。","etypeId":1,"traits":[],"iconIndex":101,"name":"ウィザードワンド","note":"<MaxItems:1>","params":[0,0,0,0,55,0,0,0],"price":300,"wtypeId":1},
+{"id":5,"animationId":3,"description":"炎属性の攻撃を+50%ブーストする杖。通常攻撃も炎属性になる。","etypeId":1,"traits":[{"code":31,"dataId":2,"value":1}],"iconIndex":101,"name":"フレイムロッド","note":"<属性威力: +*0.5, 炎>\n<MaxItems:1>","params":[0,0,5,0,24,0,0,0],"price":300,"wtypeId":1},
+{"id":6,"animationId":4,"description":"氷属性の攻撃を+50%ブーストする杖。通常攻撃も氷属性になる。","etypeId":1,"traits":[{"code":31,"dataId":3,"value":1}],"iconIndex":101,"name":"アイシクルロッド","note":"<属性威力: +*0.5, 氷>\n<MaxItems:1>","params":[0,0,5,0,24,0,0,0],"price":300,"wtypeId":1},
+{"id":7,"animationId":5,"description":"雷属性の攻撃を+50%ブーストする杖。通常攻撃も雷属性になる。","etypeId":1,"traits":[{"code":31,"dataId":4,"value":1}],"iconIndex":101,"name":"サンダーロッド","note":"<属性威力: +*0.5, 雷>\n<MaxItems:1>","params":[0,0,5,0,24,0,0,0],"price":300,"wtypeId":1},
+{"id":8,"animationId":1,"description":"物理攻撃力が大幅に上昇する杖……というか棍棒。殴れ。","etypeId":1,"traits":[],"iconIndex":110,"name":"スパイクバット","note":"<MaxItems:1>","params":[0,0,70,0,0,0,0,0],"price":300,"wtypeId":1},
+{"id":9,"animationId":1,"description":"強力だが、装備すると毎ターンHPが10%ずつ減ってしまう杖。","etypeId":1,"traits":[{"code":22,"dataId":7,"value":-0.1}],"iconIndex":101,"name":"カースドスタッフ","note":"<MaxItems:1>","params":[0,0,15,0,70,0,0,0],"price":300,"wtypeId":1},
+{"id":10,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":11,"animationId":1,"description":"魔力がとてつもなく上昇する杖。","etypeId":1,"traits":[],"iconIndex":101,"name":"アルテマワンド","note":"<MaxItems:1>","params":[0,0,10,0,120,0,0,0],"price":1000,"wtypeId":1},
+{"id":12,"animationId":3,"description":"炎属性の攻撃を+100%ブーストする杖。通常攻撃も炎属性になる。","etypeId":1,"traits":[{"code":31,"dataId":2,"value":1}],"iconIndex":101,"name":"ヴォルカノロッド","note":"<属性威力: +*1.0, 炎>\n<MaxItems:1>","params":[0,0,0,0,60,0,0,0],"price":1000,"wtypeId":1},
+{"id":13,"animationId":4,"description":"氷属性の攻撃を+100%ブーストする杖。通常攻撃も氷属性になる。","etypeId":1,"traits":[{"code":31,"dataId":3,"value":1}],"iconIndex":101,"name":"グレイシャロッド","note":"<属性威力: +*1.0, 氷>\n<MaxItems:1>","params":[0,0,0,0,60,0,0,0],"price":1000,"wtypeId":1},
+{"id":14,"animationId":5,"description":"雷属性の攻撃を+100%ブーストする杖。通常攻撃も雷属性になる。","etypeId":1,"traits":[{"code":31,"dataId":4,"value":1}],"iconIndex":101,"name":"テンペストロッド","note":"<属性威力: +*1.0, 雷>\n<MaxItems:1>","params":[0,0,0,0,60,0,0,0],"price":1000,"wtypeId":1},
+{"id":15,"animationId":1,"description":"究極の棍棒。全てを物理で解決せよ。","etypeId":1,"traits":[],"iconIndex":110,"name":"デストロイバット","note":"<MaxItems:1>","params":[0,0,150,0,0,0,0,0],"price":1000,"wtypeId":1},
+{"id":16,"animationId":1,"description":"超強力だが、装備すると毎ターンHPが20%も奪われる杖。","etypeId":1,"traits":[{"code":22,"dataId":7,"value":-0.2}],"iconIndex":101,"name":"スタッフオブデス","note":"<MaxItems:1>","params":[0,0,30,0,150,0,0,0],"price":1000,"wtypeId":1},
+{"id":17,"animationId":3,"description":"炎、氷、雷属性の攻撃を+50%ブーストする杖。","etypeId":1,"traits":[],"iconIndex":101,"name":"ロッドオブセージ","note":"<属性威力: +*0.5, 炎>\n<属性威力: +*0.5, 氷>\n<属性威力: +*0.5, 雷>\n<MaxItems:1>","params":[0,0,0,0,60,0,0,0],"price":1000,"wtypeId":1},
+{"id":18,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":19,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0},
+{"id":20,"animationId":0,"description":"","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0,"wtypeId":0}
+]
