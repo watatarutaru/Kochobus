@@ -39,5 +39,6 @@ var $plugins =
 {"name":"MessageWindowHidden","status":true,"description":"メッセージウィンドウ一時消去プラグイン","parameters":{"triggerButton":"[\"control\"]","triggerSwitch":"0","linkPictureNumbers":"[]","linkShowPictureNumbers":"[]","disableLinkSwitchId":"0","disableSwitchId":"0","disableInBattle":"false","disableInChoice":"true","restoreByDecision":"true"}},
 {"name":"ShopScene_Extension","status":true,"description":"ショップ画面拡張 v1.0.4","parameters":{"ActorCharacterSpace":"24","ActorCharacterBeginOfs":"32","MaxVisibleActors":"1","EnableActorArrow":"false","VisibleEquipMode":"1","StatusWidth":"352","NoneItemText":"なし"}},
 {"name":"MNKR_ChoiceColsMZ","status":true,"description":"選択肢の列数を変更する機能を追加します。","parameters":{"choiceColsVariableId":"40"}},
-{"name":"PANDA_ImagePreLoad","status":true,"description":"画像の事前読み込みを改善します。","parameters":{"SliceRows":"0"}}
+{"name":"PANDA_ImagePreLoad","status":true,"description":"画像の事前読み込みを改善します。","parameters":{"SliceRows":"0"}},
+{"name":"PictureCallCommon","status":true,"description":"ピクチャのボタン化プラグイン","parameters":{"PictureIdVariable":"0","InvalidSwitchId":"0","FlickDistance":"60","FlickTimeVariable":"0","FlickDegreeVariable":"0"}}
 ];
